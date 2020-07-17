@@ -1,0 +1,38 @@
+{
+  "name": "Media HPku",
+  "short_name": "Media HPku",
+  "start_url": "https://www.mediahpku.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#009688",
+  "description": "Situs yang membagikan informasi seputar gatget, seperti spesifikasi handphone, tutorial dan tips aplikasi.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-bF1Tnh4CVfI/XxE3k7lEv6I/AAAAAAAAFKo/7CYsxDyTy_gEuG38UGaqE-aW2IC-2HNLQCLcBGAsYHQ/s48/mediahpku.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bF1Tnh4CVfI/XxE3k7lEv6I/AAAAAAAAFKo/7CYsxDyTy_gEuG38UGaqE-aW2IC-2HNLQCLcBGAsYHQ/s72/mediahpku.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bF1Tnh4CVfI/XxE3k7lEv6I/AAAAAAAAFKo/7CYsxDyTy_gEuG38UGaqE-aW2IC-2HNLQCLcBGAsYHQ/s96/mediahpku.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bF1Tnh4CVfI/XxE3k7lEv6I/AAAAAAAAFKo/7CYsxDyTy_gEuG38UGaqE-aW2IC-2HNLQCLcBGAsYHQ/s144/mediahpku.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bF1Tnh4CVfI/XxE3k7lEv6I/AAAAAAAAFKo/7CYsxDyTy_gEuG38UGaqE-aW2IC-2HNLQCLcBGAsYHQ/s168/mediahpku.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bF1Tnh4CVfI/XxE3k7lEv6I/AAAAAAAAFKo/7CYsxDyTy_gEuG38UGaqE-aW2IC-2HNLQCLcBGAsYHQ/s192/mediahpku.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bF1Tnh4CVfI/XxE3k7lEv6I/AAAAAAAAFKo/7CYsxDyTy_gEuG38UGaqE-aW2IC-2HNLQCLcBGAsYHQ/s512/mediahpku.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
